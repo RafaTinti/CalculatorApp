@@ -103,3 +103,19 @@ p.result {
     grid-column-end: 5;
 }
 
+footer{
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
